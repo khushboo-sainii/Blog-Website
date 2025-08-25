@@ -28,7 +28,7 @@ A responsive blog application built with **React** and **Tailwind CSS**, featuri
     http://localhost:3000
 
 ## Folder Structure
-
+```
 src/
 ├── components/
 │   ├── Header.js
@@ -43,4 +43,5 @@ src/
 ├── context/
 │   └── AppContext.js
 ├── App.js
-├── index.js    
+├── index.js
+```
