@@ -16,7 +16,7 @@ A responsive blog application built with **React** and **Tailwind CSS**, featuri
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository**
-   git clone https://github.com/khushboo-sainii/codehelp-blogs.git
+   git clone https://github.com/khushboo-sainii/Blog-Website
 
 2. **Navigate to the project folder**
     cd codehelp-blogs
